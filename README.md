@@ -1,2 +1,3 @@
-# first_project
-this is my first git repository
+ # first_project
+This is my first Git repository.
+Author-Ridham jangra
