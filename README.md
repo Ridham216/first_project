@@ -1,4 +1,4 @@
  # first_project
 This is my first Git repository.
 <br>
-Author-Ridham jangra
+Author-Ridham (github )
